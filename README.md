@@ -2,5 +2,5 @@
 
 first run:
 sh dependency.sh
-then：
+then run:
 sh build_opencv.sh
